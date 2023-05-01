@@ -2,7 +2,8 @@
 Object Detection in Images with DETR - DEtection TRansformer
 
 > [Paper](https://github.com/CatherineHabib/Selected4-Project/blob/2b2f357348b5571f45764a719280e25cf775cf01/2005.12872.pdf) [[arxiv](https://arxiv.org/abs/2005.12872?context=cs.CV)],
-> [Presentation](),   Paper: [Source Code](https://github.com/facebookresearch/detr) + [Dataset](https://cocodataset.org/#download) / Project: [Source Code](https://github.com/CatherineHabib/Selected4-Project/blob/2b2f357348b5571f45764a719280e25cf775cf01/DETRCarDetection.ipynb) + [Dataset](https://www.kaggle.com/datasets/sshikamaru/car-object-detection),
+> [Presentation](),   
+> Paper: [Source Code](https://github.com/facebookresearch/detr) + [Dataset](https://cocodataset.org/#download) / Project: [Source Code](https://github.com/CatherineHabib/Selected4-Project/blob/2b2f357348b5571f45764a719280e25cf775cf01/DETRCarDetection.ipynb) + [Dataset](https://www.kaggle.com/datasets/sshikamaru/car-object-detection),
 > [Project documentation](https://github.com/CatherineHabib/Selected4-Project/blob/f5e26e08959f62fba79eaf70fa108e81592ee1dc/Selected%20Topics%20In%20Computer%20Science%204-Team06-Project%20documentation.pdf)
 
 
