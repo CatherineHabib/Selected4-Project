@@ -5,4 +5,4 @@
 
    > Paper: [Source Code](https://github.com/facebookresearch/detr) & [COCO Dataset](https://cocodataset.org/#download)  __-_ + _-__  Project: [Source Code](https://github.com/CatherineHabib/Selected4-Project/blob/2b2f357348b5571f45764a719280e25cf775cf01/DETRCarDetection.ipynb) & [kaggle Dataset](https://www.kaggle.com/datasets/sshikamaru/car-object-detection) 
    # 
-Google Drive [link](https://drive.google.com/drive/folders/186Z4kLoHPKpk6rt9qXkrP7zJMw7rV9DX?usp=share_link) containing the implemented model and dataset files.  
+Google Drive [link](https://drive.google.com/drive/folders/186Z4kLoHPKpk6rt9qXkrP7zJMw7rV9DX?usp=share_link) containing the implemented Model and Dataset files.  
