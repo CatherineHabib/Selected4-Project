@@ -1,5 +1,5 @@
 # Selected4-Project
-Object Detection in Images with DETR - DEtection TRansformer 
+Object Detection in Images with DETR - DEtection TRansformer
 
  / [Implemented paper](https://github.com/CatherineHabib/Selected4-Project/blob/2b2f357348b5571f45764a719280e25cf775cf01/2005.12872.pdf) [[arxiv](https://arxiv.org/abs/2005.12872?context=cs.CV)]
 
